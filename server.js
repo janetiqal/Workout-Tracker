@@ -17,6 +17,7 @@ app.use(require("./routes/api.js"));
 
 mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workouttrackerdb", {
   useNewUrlParser: true,
+  useUnifiedTopology: true ,
 });
 
 const db = mongoose.connection
