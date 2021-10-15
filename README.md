@@ -22,7 +22,7 @@ This project uses a MongoDB and node.js to track workouts.
 This app allows users to view their workout stats in graphical form. They are able to see stats over a rolling 7 days. 
 
 ## Link to Deployed App
-The app is deployed on [Heroku](https://workout-trackerji.herokuapp.com/).
+The app is deployed on [Heroku](https://dry-plains-37630.herokuapp.com/).
 
 ## Technologies
 - Node.js Express.js was used to create a RESTful API.
