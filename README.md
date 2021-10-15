@@ -45,7 +45,9 @@ From the homepage, you can also hit the "Continue Workout" button to add workout
 ## Screenshot
 
 <br><br>
-
+<img width="500" alt="homepage" src="https://user-images.githubusercontent.com/84414488/137536425-5f37ce39-2a1e-4d6c-837f-321e2cc59771.png">
+<img width="500" alt="workout input form" src="https://user-images.githubusercontent.com/84414488/137536482-fcd65faa-a223-485b-b2ad-14670a6117fc.png">
+<img width="500" alt="graphical data as workout stats over 7 days" src="https://user-images.githubusercontent.com/84414488/137536515-08627918-4002-4338-83e0-67d16bdb5576.png">
 
 
 ## License 
